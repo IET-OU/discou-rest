@@ -2,13 +2,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>discou</groupId>
   <artifactId>discou-rest</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
   <name>DiscOU REST Services</name>
   <dependencies>
   	<dependency>
   		<groupId>discou</groupId>
   		<artifactId>discou-indexer</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
+  		<version>0.0.2-SNAPSHOT</version>
   	</dependency>
   	<dependency>
   		<groupId>javax.servlet</groupId>
