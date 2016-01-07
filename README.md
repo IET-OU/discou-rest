@@ -7,5 +7,16 @@ Latest runnable Jar is [version v0.0.2](https://github.com/the-open-university/d
 
 Lookup the info running the jar with -h:
 ```
-java -jar discou-rest-X.Y.Z.jar --help
+$ java -jar discou-rest-0.0.2.jar -h
+#1: welcome to discou
+usage: java [java-opts] -jar [jarfile]
+ -a,--annotator <arg>   Set the url of the spotlight annotator. Defaults
+                        to http://spotlight.dbpedia.org/rest/annotate.
+ -h,--help              Show this help.
+ -i,--index <arg>       Set the index location.
+ -n,--interface <arg>   The folder where the html/js alfa interface is
+                        located.
+ -p,--port <arg>        Set the port the server will listen to (defaults
+                        to 8080).
+
 ```
