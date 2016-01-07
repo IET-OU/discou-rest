@@ -20,3 +20,5 @@ usage: java [java-opts] -jar [jarfile]
                         to 8080).
 
 ```
+
+Logging is provided using [Log4J](http://logging.apache.org/log4j/1.2/).
